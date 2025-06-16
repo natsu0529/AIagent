@@ -1,0 +1,14 @@
+# --- Python ---
+# キャッシュファイル
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDEs / Editors ---
+# VSCode
+.vscode/
+# PyCharm
+.idea/%    
+
+.streamlit
